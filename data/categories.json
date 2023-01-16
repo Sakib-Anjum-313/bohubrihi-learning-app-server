@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "Career Track Program"
+  },
+  {
+    "id": "02",
+    "name": "Computer Science & Programming"
+  },
+  {
+    "id": "03",
+    "name": "Data Science & Analysis"
+  },
+  {
+    "id": "04",
+    "name": "Digital Marketing"
+  },
+  {
+    "id": "05",
+    "name": "Design & Tools"
+  },
+  {
+    "id": "06",
+    "name": "Software & tools"
+  }
+]

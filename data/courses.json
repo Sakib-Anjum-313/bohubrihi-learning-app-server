@@ -1,0 +1,420 @@
+[
+  {
+    "_id": "1",
+    "category_id": "01",
+    "type": "beginner",
+    "title": "Android App Development",
+    "author": {
+      "name": "Sourov & Abdullah",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/02/Android-App-Development-with-Kotlin.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/02/Android-App-Development-with-Kotlin.jpg",
+    "details": {
+      "video": 100,
+      "student": 131,
+      "content_access": 2,
+      "price": "৫,৫০০",
+      "duration": 6
+    }
+  },
+  {
+    "_id": "2",
+    "category_id": "01",
+    "type": 488,
+    "title": "Front-End Web Development",
+    "author": {
+      "name": "Simato Paul",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/11/Complete-Front-End-Web-Development-Course-by-Bohubrihi.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/11/Complete-Front-End-Web-Development-Course-by-Bohubrihi.jpg",
+    "details": {
+      "video": 120,
+      "student": 225,
+      "content_access": 2,
+      "price": "৭,৫০০",
+      "duration": 4
+    }
+  },
+  {
+    "_id": "3",
+    "category_id": "01",
+    "type": 488,
+    "title": "Full Stack Digital Marketing",
+    "author": {
+      "name": "Pritom Mozumder",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/05/Bohubrihi-Full-Stack-Digital-Marketing-Career-Track.png"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/05/Bohubrihi-Full-Stack-Digital-Marketing-Career-Track.png",
+    "details": {
+      "video": 90,
+      "student": 67,
+      "content_access": 2,
+      "price": "২,৫০০",
+      "duration": 4
+    }
+  },
+  {
+    "_id": "4",
+    "category_id": "01",
+    "type": 488,
+    "title": "Full Stack (MERN) Web Development",
+    "author": {
+      "name": "Simanto Paul",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://assets.codemithra.com/wp-content/uploads/2021/10/19122414/Mern-Stack-Developer.jpg"
+    },
+    "image_url": "https://assets.codemithra.com/wp-content/uploads/2021/10/19122414/Mern-Stack-Developer.jpg",
+    "details": {
+      "video": 220,
+      "student": 385,
+      "content_access": 2,
+      "price": "১০,০০০",
+      "duration": 6
+    }
+  },
+  {
+    "_id": "5",
+    "category_id": "02",
+    "type": 488,
+    "title": "C Programming",
+    "author": {
+      "name": "Shamim Chy",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://goedu.ac/wp-content/uploads/2020/12/Getting-Started-with-C-Programming-Language-Course-Image-GoEdu.jpg"
+    },
+    "image_url": "https://goedu.ac/wp-content/uploads/2020/12/Getting-Started-with-C-Programming-Language-Course-Image-GoEdu.jpg",
+    "details": {
+      "video": 75,
+      "student": 96,
+      "content_access": "Life Time",
+      "price": "১,০০০",
+      "duration": 2
+    }
+  },
+  {
+    "_id": "6",
+    "category_id": "02",
+    "type": 488,
+    "title": "Advanced Java",
+    "author": {
+      "name": "Ridyan Khan",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/11/blog_Advanced-Java-Tutorial.jpg"
+    },
+    "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/11/blog_Advanced-Java-Tutorial.jpg",
+    "details": {
+      "video": 148,
+      "student": 156,
+      "content_access": "Life Time",
+      "price": "১,৫০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "7",
+    "category_id": "02",
+    "type": 488,
+    "title": "MATLAB",
+    "author": {
+      "name": "Simanto Paul",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/11/MATLAB-Bangla-Online-Course-by-Bohubrihi.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/11/MATLAB-Bangla-Online-Course-by-Bohubrihi.jpg",
+    "details": {
+      "video": 65,
+      "student": 131,
+      "content_access": "Life Time",
+      "price": "১,২০০",
+      "duration": 2
+    }
+  },
+  {
+    "_id": "8",
+    "category_id": "02",
+    "type": 488,
+    "title": "R Programming",
+    "author": {
+      "name": "Simanto Paul",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://www.classcentral.com/report/wp-content/uploads/2022/05/R-Programming-BCG-Banner.png"
+    },
+    "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/05/R-Programming-BCG-Banner.png",
+    "details": {
+      "video": 55,
+      "student": 65,
+      "content_access": "Life Time",
+      "price": "১,২০০",
+      "duration": 2
+    }
+  },
+  {
+    "_id": "9",
+    "category_id": "03",
+    "type": 488,
+    "title": "Complete Excel",
+    "author": {
+      "name": "Galib Ahmed",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/11/Complete-Excel-Trainig-Bangla-Course-by-Bohubrihi.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/11/Complete-Excel-Trainig-Bangla-Course-by-Bohubrihi.jpg",
+    "details": {
+      "video": 75,
+      "student": 350,
+      "content_access": 2,
+      "price": "১,০০০",
+      "duration": 4
+    }
+  },
+  {
+    "_id": "10",
+    "category_id": "03",
+    "type": 488,
+    "title": "Macros & VBA for Exel",
+    "author": {
+      "name": "S M Salim",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/10/VBA-Bangla-Course-by-Bohubrihi.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/10/VBA-Bangla-Course-by-Bohubrihi.jpg",
+    "details": {
+      "video": 47,
+      "student": 115,
+      "content_access": "Life Time",
+      "price": "৫০০",
+      "duration": 2
+    }
+  },
+  {
+    "_id": "11",
+    "category_id": "03",
+    "type": 488,
+    "title": "MATLAB",
+    "author": {
+      "name": "Simanto Paul",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/11/MATLAB-Bangla-Online-Course-by-Bohubrihi.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/11/MATLAB-Bangla-Online-Course-by-Bohubrihi.jpg",
+    "details": {
+      "video": 100,
+      "student": 131,
+      "content_access": 2,
+      "price": "১,০০০",
+      "duration": 6
+    }
+  },
+  {
+    "_id": "12",
+    "category_id": "03",
+    "type": 488,
+    "title": "SQL For Beginners",
+    "author": {
+      "name": "Simanto Paul",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/10/SQL-Bangla-Course-by-Bohubrihi.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/10/SQL-Bangla-Course-by-Bohubrihi.jpg",
+    "details": {
+      "video": 85,
+      "student": 420,
+      "content_access": "Life Time",
+      "price": "১,০০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "13",
+    "category_id": "04",
+    "type": 488,
+    "title": "Google Marketing Tools",
+    "author": {
+      "name": "Pritom Mozumder",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/04/Google-Marketing-Tools-Bangla-Course-620x440.png"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Google-Marketing-Tools-Bangla-Course-620x440.png",
+    "details": {
+      "video": 85,
+      "student": 560,
+      "content_access": "Life Time",
+      "price": "৭০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "14",
+    "category_id": "04",
+    "type": 488,
+    "title": "Youtube Marketing",
+    "author": {
+      "name": "Pritom Mozumder",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2020/12/YouTube-Marketing-Free-Bangla-Course-620x440.png"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2020/12/YouTube-Marketing-Free-Bangla-Course-620x440.png",
+    "details": {
+      "video": 85,
+      "student": 420,
+      "content_access": "Life Time",
+      "price": "৭০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "15",
+    "category_id": "04",
+    "type": 488,
+    "title": "FaceBook Marketing",
+    "author": {
+      "name": "Pritom Mozumder",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/11/Facebook-Marketing-Bangla-Course-by-Bohubrihi.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/11/Facebook-Marketing-Bangla-Course-by-Bohubrihi.jpg",
+    "details": {
+      "video": 110,
+      "student": 245,
+      "content_access": "Life Time",
+      "price": "৫০০",
+      "duration": 2
+    }
+  },
+  {
+    "_id": "16",
+    "category_id": "04",
+    "type": 488,
+    "title": "Digital Marketing Full Stack",
+    "author": {
+      "name": "Pritom Mozumder",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://trickbd.com/wp-content/uploads/2021/09/17/Digital-marketing-course-bohubrihi.jpg"
+    },
+    "image_url": "https://trickbd.com/wp-content/uploads/2021/09/17/Digital-marketing-course-bohubrihi.jpg",
+    "details": {
+      "video": 136,
+      "student": 652,
+      "content_access": "Life Time",
+      "price": "২,৫০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "17",
+    "category_id": "05",
+    "type": 488,
+    "title": "Complete PowerPoint Training",
+    "author": {
+      "name": "Walid Uz Zaman",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/11/Complete-PowerPoint-Training-Bohubrihi-Thumbnail-620x440.png"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/11/Complete-PowerPoint-Training-Bohubrihi-Thumbnail-620x440.png",
+    "details": {
+      "video": 145,
+      "student": 752,
+      "content_access": "Life Time",
+      "price": "১,৫০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "18",
+    "category_id": "05",
+    "type": 488,
+    "title": "Graphic Design Fundamentals",
+    "author": {
+      "name": "Md. Fahad Rahman",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/04/Graphic-Design-Fundamentals-Bohubrihi-620x440.png"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Graphic-Design-Fundamentals-Bohubrihi-620x440.png",
+    "details": {
+      "video": 125,
+      "student": 1240,
+      "content_access": "Life Time",
+      "price": "১,৫০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "19",
+    "category_id": "06",
+    "type": 488,
+    "title": "Graphic Design Fundamentals",
+    "author": {
+      "name": "Md. Fahad Rahman",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/04/Graphic-Design-Fundamentals-Bohubrihi-620x440.png"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Graphic-Design-Fundamentals-Bohubrihi-620x440.png",
+    "details": {
+      "video": 125,
+      "student": 1240,
+      "content_access": "Life Time",
+      "price": "২,৫০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "20",
+    "category_id": "06",
+    "type": 488,
+    "title": "Personal Finance",
+    "author": {
+      "name": "Md. Fahad Rahman",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/04/Personal-Finance-Mangament-Bangla-Course-Bohubrihi-620x440.png"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/04/Personal-Finance-Mangament-Bangla-Course-Bohubrihi-620x440.png",
+    "details": {
+      "video": 125,
+      "student": 1240,
+      "content_access": "Life Time",
+      "price": "৫০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "21",
+    "category_id": "06",
+    "type": 488,
+    "title": "GRE Preparation",
+    "author": {
+      "name": "Md. Fahad Rahman",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/12/Complete-GRE-Preparation-Course.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/12/Complete-GRE-Preparation-Course.jpg",
+    "details": {
+      "video": 125,
+      "student": 1240,
+      "content_access": "Life Time",
+      "price": "১,৫০০",
+      "duration": 3
+    }
+  },
+  {
+    "_id": "22",
+    "category_id": "06",
+    "type": 488,
+    "title": "Career Package",
+    "author": {
+      "name": "Md. Fahad Rahman",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://bohubrihi.com/wp-content/uploads/2022/12/Career-Preparation-Package-for-Students.jpg"
+    },
+    "image_url": "https://bohubrihi.com/wp-content/uploads/2022/12/Career-Preparation-Package-for-Students.jpg",
+    "details": {
+      "video": 125,
+      "student": 1240,
+      "content_access": "Life Time",
+      "price": "২,৫০০",
+      "duration": 3
+    }
+  }
+]
