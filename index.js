@@ -17,6 +17,10 @@ app.get('/course-categories', (req, res) => {
     res.send(catagories);
 });
 
+app.get("/all-courses", (req, res) => {
+  res.send(courses);
+});
+
 
 
 
